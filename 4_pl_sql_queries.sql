@@ -154,7 +154,7 @@ SPOOL OFF
 SQL> 
 SQL> EXEC DISPLAY_ALL;
                    |   FIRST   |  MIDDLE  |    LAST     |                     |PROPERTY|                                             |  POST   |                                                        
-|    ID    | TITLE |    NAME   |   NAME   |    NAME     |      DEPT NAME      | NUMBER |     STREET     |   CITY    |     REGION     |  CODE   |  COUNTRY  |                                            
+|    ID    | TITLE |    NAME   |   NAME   |    NAME     |      BRANCH NAME    | NUMBER |     STREET     |   CITY    |     REGION     |  CODE   |  COUNTRY  |                                            
 ------------------------------------------------------------------------------------------------------------------------------------------------------------                                            
 | S0000006 |  MISS | ARIANNA   | THE      | BANANA      | GEOGRAPHY           | 11     | ACACIA STREET  | NEWCASTLE | TYNE AND WEAR  | NE31AB  | UK        |                                            
 | F0000004 |  DR   | BOATY     | B        | MCBOATFACE  | COMPUTER AND INFORMA| 254    | ACORN STREET   | NEWCASTLE | TYNE AND WEAR  | NE31AU  | UK        |                                            
