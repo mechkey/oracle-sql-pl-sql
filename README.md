@@ -1,4 +1,4 @@
-# sql-pl-sql
+# oracle-sql-pl-sql
 This is an edited version of an assignment I submitted as part of my MSc CS degree which demonstrates my SQL and PL/SQL skills and has been adapted.
 
 ## Oracle SQL RDBMS from scenario
